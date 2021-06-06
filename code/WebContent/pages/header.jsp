@@ -34,7 +34,7 @@ if (request.getParameter("msg")=="1")
 </head><body>
   <div class="wrapper">
 <div class="header">
-  <a href="<%=path%>/index"><img src="<%=path%>/pages/images/logo.jpg" height="311" width="960" /></a>
+  <a href="<%=path%>/index"><img src="<%=path%>/pages/images/logo2.jpg" height="311" width="950" /></a>
 </div>
 <div class="clear"></div>
 <div class ="daohang">
